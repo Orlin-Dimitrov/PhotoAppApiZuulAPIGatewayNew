@@ -1,4 +1,4 @@
-package com.or2d.photoapp.api.gateway.PhotoAppApiZuulAPIGatewayNew;
+package com.or2d.photoapp.api.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
